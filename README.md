@@ -47,8 +47,8 @@ road-anomaly-detection-pi4/
 ├── inference scripts
 ├── ONNX models
 ├── project report
-└── README.md
-
+├──README.md
+└──RUN cam_infer.py on rasbery pie
 
 
  Running Inference
