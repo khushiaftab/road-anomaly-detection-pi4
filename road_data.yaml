@@ -1,0 +1,9 @@
+path: dataset
+train: images/train
+val: images/val
+
+nc: 3
+names:
+  - UnPavedRoad
+  - UnMarkedBump
+  - Other
